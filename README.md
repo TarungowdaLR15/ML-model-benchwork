@@ -1,4 +1,4 @@
-# 🧪 ML Model Benchmark Lab
+<img width="1917" height="847" alt="image" src="https://github.com/user-attachments/assets/d2d7ad58-d9cc-4b5a-aa92-ebfc287cb553" /># 🧪 ML Model Benchmark Lab
 
 > **An agentic, 3-section dashboard for benchmarking 100 frontier AI models across 33 providers — streaming reasoning, live tool calls, and confidence-weighted recommendations.**
 
@@ -27,19 +27,20 @@
 ## 📸 Screenshots
 
 ### 1. The Hero Section
-*Cinematic video background, bold gradient typography, and live stats.*
-> *(Replace this text with your hero image link once uploaded to GitHub)*
-> `![Hero Section](./screenshots/hero.png)`
+
+ <img width="1917" height="847" alt="Screenshot 2026-10-29 232317" src="https://github.com/user-attachments/assets/bb7a5735-8d48-4c22-8584-61a75e757e91" />
+
+
 
 ### 2. The Model Pool
 *Searchable grid of 100 models across 33 providers. Supports `/` keyboard shortcut and search history.*
-> *(Replace this text with your models image link once uploaded to GitHub)*
-> `![Model Pool](./screenshots/models.png)`
+<img width="1917" height="770" alt="Screenshot 2026-10-29 232258" src="https://github.com/user-attachments/assets/5c30af5d-62ae-4bfd-9cd2-58b8306664e3" />
+
 
 ### 3. Live Results & Agent Console
 *Watch the agent stream its reasoning, execute tool calls, and generate confidence-weighted recommendations with animated metrics.*
-> *(Replace this text with your results image link once uploaded to GitHub)*
-> `![Live Results](./screenshots/results.png)`
+![Uploading Screenshot 2026-10-29 232410.png…]()
+
 
 ---
 
