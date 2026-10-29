@@ -4,7 +4,7 @@
     npm install
     npm run dev
 
-Open http://localhost:5173
+Open https://snazzy-lebkuchen-41b59e.netlify.app/
 
 ## Build
     npm run build
