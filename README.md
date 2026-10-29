@@ -39,7 +39,8 @@
 
 ### 3. Live Results & Agent Console
 *Watch the agent stream its reasoning, execute tool calls, and generate confidence-weighted recommendations with animated metrics.*
-![Uploading Screenshot 2026-10-29 232410.png…]()
+<img width="1917" height="833" alt="Screenshot 2026-10-29 232410" src="https://github.com/user-attachments/assets/66bf2cf9-e1f1-42eb-8c67-cd2dd73bec5e" />
+
 
 
 ---
